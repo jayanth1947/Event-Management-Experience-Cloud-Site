@@ -4,5 +4,4 @@
 - Non-user of this site will required to register and can be able to  login to this site.
 - Current users of this site will not required any registration and they can able to see the events.
 
-## 
 
