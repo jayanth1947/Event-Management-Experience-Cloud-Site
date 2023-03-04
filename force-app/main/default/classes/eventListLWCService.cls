@@ -20,7 +20,9 @@ public with sharing class eventListLWCService {
             WHERE Start_DateTime__c>=TODAY AND Live__c=true 
             WITH SECURITY_ENFORCED];
             
-        } catch (Exception e) {
+        }
+        //This will catch the errors that are thrown by the try block 
+        catch (Exception e) {
             throw new AuraHandledException(e.getMessage());
         }
         return eventList;
