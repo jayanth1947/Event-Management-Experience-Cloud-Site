@@ -7,6 +7,6 @@
 - Existing users of the system will not need to register again and can simply log in to view their events.
 
 - Project Documentation is attached below
-[https://docs.google.com/document/d/142fMexmjDLiF0nBzwGtLEAvkfQTWuXezkRE8LyFn44s/edit?usp=share_link]
+[Event Management Experience site](https://docs.google.com/document/d/142fMexmjDLiF0nBzwGtLEAvkfQTWuXezkRE8LyFn44s/edit?usp=share_link).
 
 
