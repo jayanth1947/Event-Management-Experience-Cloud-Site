@@ -17,7 +17,7 @@ public with sharing class eventListLWCService {
             eventList=[SELECT  Id,Location__c,title_image_url__c,
             Location__r.Name,Name__c,Start_DateTime__c
             FROM Event__c
-            WHERE Start_DateTime__c>=TODAY AND Live__c=true 
+            WHERE Start_DateTime__c>=TODAY AND Live__c=true
             WITH SECURITY_ENFORCED];
             
         }
